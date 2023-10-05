@@ -1,12 +1,10 @@
-### Hi there 👋
+### Hello there/Cześć! 👋
+
+I'm Mateusz, a fullstack developer from Poland
 
 ### Fullstack Developer | Game Design Enthusiast
 
 🌟 JavaScript | React | HTML | CSS
-
-Hello there/Cześć! 👋
-
-I'm Mateusz, a fullstack developer from Poland
 
 🚀 My passion is creating modern code and delving into the mechanics of how it works.
 
