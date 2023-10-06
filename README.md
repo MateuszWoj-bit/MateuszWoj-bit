@@ -1,6 +1,6 @@
 ### Hello there/Cześć! 👋
 
-I'm Mateusz, a fullstack developer from Poland
+I'm Mateusz, developer from Poland
 
 ### Fullstack Developer | Game Design Enthusiast
 
@@ -8,9 +8,23 @@ I'm Mateusz, a fullstack developer from Poland
 
 🚀 My passion is creating modern code and delving into the mechanics of how it works.
 
+### 📫 How to reach me: 
+
 🔗 Portfolio: [Developer Portfolio Site](https://mateuszwoj-bit.github.io/react-00-portfolio-site/) 
 
 🌐 Linkedin: [Linkedin Page](https://www.linkedin.com/in/mateusz-w%C3%B3jcikowski-5554aa264/)
+
+✉️ Email: [Contact Me](mailto:matwojcikowski@gmail.com)
+
+- 🔭 I’m currently working on a personal 🎵Discord Music Bot🔊 and a small team project👛
+- 🌱 I’m currently learning
+ 
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+- 💬 Ask me about - anything
+  
+- ⚡ Fun fact: "Honey never spoils. Archaeologists have even found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible." 🍯🐝
+
 
 **My Stack:**
 
@@ -27,10 +41,9 @@ I'm Mateusz, a fullstack developer from Poland
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Sanity](https://img.shields.io/badge/Sanity-CMS-red?style=for-the-badge&logo=sanity&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+![Unity](https://img.shields.io/badge/Unity-100000.svg?style=for-the-badge&logo=unity&logoColor=white)
