@@ -16,7 +16,7 @@ I'm Mateusz, a developer from Poland
 
 ✉️ Email: [Contact Me](mailto:matwojcikowski@gmail.com)
 
-- 🔭 I’m currently working on a personal 🎵Discord Music Bot🔊 and a small team project👛
+- 🔭 I’m currently working on a personal 🎵Discord Music Bot🔊, 🎨VS Theme with color options🎨 and a small team project👛
 - 🌱 I’m currently learning
  
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
