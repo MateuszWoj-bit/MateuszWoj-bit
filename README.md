@@ -23,6 +23,7 @@ I'm Mateusz, a developer from Poland
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![Midjourney](https://img.shields.io/badge/Midjourney-%31231231.svg?style=for-the-badge&logo=midjourney&logoColor=white) 
+
 - 💬 Ask me about - anything
   
 - ⚡ Fun fact: "Honey never spoils. Archaeologists have even found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible." 🍯🐝
