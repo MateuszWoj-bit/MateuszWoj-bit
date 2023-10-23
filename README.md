@@ -10,7 +10,7 @@ I'm Mateusz, a developer from Poland
 
 ### 📫 How to reach me: 
 
-🔗 Portfolio: [Developer Portfolio Site](https://mateuszwoj-bit.github.io/react-00-portfolio-site/) 
+🔗 Portfolio: [Developer Portfolio Site](https://mateuszwoj-bit.github.io/react-00-portfolio-site/)
 
 🌐 Linkedin: [Linkedin Page](https://www.linkedin.com/in/mateusz-w%C3%B3jcikowski-5554aa264/)
 
