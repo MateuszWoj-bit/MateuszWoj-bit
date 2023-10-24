@@ -16,7 +16,7 @@ I'm Mateusz, a developer from Poland
 
 ✉️ Email: [Contact Me](mailto:matwojcikowski@gmail.com)
 
-- 🔭 I’m currently working on a personal 🎵Discord Music Bot🔊 🎨VS Code Theme with color options🎨
+- 🔭 I’m currently working on a personal 🎵Discord Music Bot🔊 🎨VS Code Theme with color options🎨 
  👛and a small team project👛
 - 🌱 I’m currently learning
  
