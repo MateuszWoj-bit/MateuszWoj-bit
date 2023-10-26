@@ -13,7 +13,7 @@ I'm Mateusz, a developer from Poland
 🔗 Portfolio: [Developer Portfolio Site](https://mateuszwoj-bit.github.io/react-00-portfolio-site/)
 
 🌐 Linkedin: [Linkedin Page](https://www.linkedin.com/in/mateusz-w%C3%B3jcikowski-5554aa264/)
-
+ 
 ✉️ Email: [Contact Me](mailto:matwojcikowski@gmail.com)
 
 - 🔭 I’m currently working on a personal 🎵Discord Music Bot🔊 🎨VS Code Theme with color options🎨 
