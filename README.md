@@ -1,6 +1,6 @@
 ### Hello there/Cześć!  👋
 
-I'm Mateusz, a developer from Poland 
+I'm Mateusz, a developer from Poland
 
 ### Fullstack Developer | Game Design Enthusiast
 
