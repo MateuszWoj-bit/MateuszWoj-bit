@@ -1,4 +1,6 @@
-### Hello there/Cześć!  👋
+🎃🎃🎃
+### Hello there/Cześć!  👋 
+🎃🎃🎃
 
 I'm Mateusz, a developer from Poland
 
