@@ -8,7 +8,7 @@ I'm Mateusz, a developer from Poland
 
 🚀 My passion is creating modern code and delving into the mechanics of how it works.
 
-### 📫 How to reach me:
+### 📫 How to reach me: 
 
 🔗 Portfolio: [Developer Portfolio Site](https://mateuszwoj-bit.github.io/react-00-portfolio-site/)
 
