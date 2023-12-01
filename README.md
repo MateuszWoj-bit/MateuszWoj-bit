@@ -23,6 +23,7 @@ I'm Mateusz, a developer from Poland
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![Midjourney](https://img.shields.io/badge/Midjourney-%31231231.svg?style=for-the-badge&logo=midjourney&logoColor=white) 
+![Puppeteer Badge](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=fff&style=for-the-badge)
 
 - 💬 Ask me about - anything
   
