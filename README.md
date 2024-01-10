@@ -13,6 +13,8 @@ I'm Mateusz, a developer from Poland
 🔗 Portfolio: [Developer Portfolio Site](https://mateuszwoj-bit.github.io/react-00-portfolio-site/)
 
 🌐 Linkedin: [Linkedin Page](https://www.linkedin.com/in/mateusz-w%C3%B3jcikowski-5554aa264/)
+
+📷 Instagram: [Instagram Page](https://www.instagram.com/mjwdev/)
  
 ✉️ Email: [Contact Me](mailto:matwojcikowski@gmail.com)
 
