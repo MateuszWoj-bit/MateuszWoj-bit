@@ -21,7 +21,6 @@ I'm Mateusz, a developer from Poland
 - 🌱 I’m currently learning
  
 
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![Midjourney](https://img.shields.io/badge/Midjourney-%31231231.svg?style=for-the-badge&logo=midjourney&logoColor=white) 
 
 
@@ -53,3 +52,4 @@ I'm Mateusz, a developer from Poland
 ![Unity](https://img.shields.io/badge/Unity-100000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Puppeteer Badge](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=fff&style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
